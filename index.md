@@ -15,3 +15,8 @@ select * from customers order by name
 ```
 
 other code `$ git init`
+
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
